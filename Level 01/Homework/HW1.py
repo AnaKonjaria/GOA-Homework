@@ -27,4 +27,4 @@ print(type(gender))
 print(type(status))
 print(type(surname))
 
-#On the first lesson we studied print function; date types: Integer, String, Float; created variables; five types of mathematical operations and how to discover which type of date we have used using print(type()) function. 
+#On the first lesson we studied print function; date types: Integer, String, Float; created variables; Five types of mathematical operations and how to discover which type of date we have used using print(type()) function. 

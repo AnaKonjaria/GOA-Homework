@@ -2,7 +2,13 @@
 #We have to create variable before calling it, so first line will be declaring a variable, the next line will be print() function.
 #Debugging consists of two steps: identifying bug and fixing it. Examples:
 
-#
+#print(hello world')
+#name = Ana
+#2name = Anna
+#age = '28'
+
+#print(surname)
+#surname = 'konjaria'
 
 #Here are fixed bugs examples:
 
@@ -23,3 +29,4 @@ print(3*5)
 print(5/2)
 print(5//2)
 print(3-1)
+
