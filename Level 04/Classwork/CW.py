@@ -7,6 +7,3 @@ print(10>=12)
 
 print(11%3)
 print(3**4)
-
-print(False or True)
-print(True and False)
