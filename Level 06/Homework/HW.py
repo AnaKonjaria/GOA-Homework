@@ -55,17 +55,6 @@
 # for i in word:
 #     print(i)
 
-#9
-
-count=0
-user_input=0
-numbers=float(input("Enter any number: "))
-while numbers!=0:
-    numbers=float(input("Enter any number: "))
-    user_input+=numbers
-    count+=1
-    average=numbers/count
-print(average)
-
+#9 #10 if else ფუნქციებით კეთდება და ჯერ არ გაგვივლია
 
 
