@@ -18,11 +18,3 @@
 #         print("Number:", num)
 #     num-=1
 
-
-temp=19
-if temp ==22:
-    print("Optimal")
-    if temp<22:
-        print("less then optimal")
-else:
-    print("above optimal")

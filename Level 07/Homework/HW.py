@@ -78,9 +78,9 @@
 
 #13
 
-sum=0
+# sum=0
 
-while sum<50:
-    numZ=int(input("enter number: "))
-    sum+=numZ
-print(sum)
+# while sum<50:
+#     numZ=int(input("enter number: "))
+#     sum+=numZ
+# print(sum)
