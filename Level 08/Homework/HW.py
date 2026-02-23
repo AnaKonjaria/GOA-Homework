@@ -74,9 +74,9 @@
 
 #8
 
-max_num=int(input("enter first number: "))
-for i in range(4):
-    num=int(input("Enter next number"))
-    if num>max_num:
-        max_num=num
-print("biggest number is: ", max_num)
+# max_num=int(input("enter first number: "))
+# for i in range(4):
+#     num=int(input("Enter next number"))
+#     if num>max_num:
+#         max_num=num
+# print("biggest number is: ", max_num)
