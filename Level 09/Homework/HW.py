@@ -39,9 +39,9 @@
 
 #6
 
-list5=[3,5,2,7,8,4,6,7,8,2,9]
-odd=0
-for i in range(len(list5)):
-    if list5[i]%2!=0:
-        odd+=1
-print(odd)
+# list5=[3,5,2,7,8,4,6,7,8,2,9]
+# odd=0
+# for i in range(len(list5)):
+#     if list5[i]%2!=0:
+#         odd+=1
+# print(odd)
