@@ -105,12 +105,12 @@
 
 #13
 
-list=[]
+# list=[]
 
-for i in range(5):
-    num=int(input("Enter number: "))
-    list.append(num)
-list.sort()
-print(list)
-list.pop(-1)
-print(list)
+# for i in range(5):
+#     num=int(input("Enter number: "))
+#     list.append(num)
+# list.sort()
+# print(list)
+# list.pop(-1)
+# print(list)
