@@ -76,7 +76,7 @@
 
 #13
 
-def average_of_four(x, y, z, k):
-    print((x+y+z)/3)
-average_of_four(x=int(input()), y=int(input()), z=int(input()), k=int(input()))
+# def average_of_four(x, y, z, k):
+#     print((x+y+z)/3)
+# average_of_four(x=int(input()), y=int(input()), z=int(input()), k=int(input()))
 

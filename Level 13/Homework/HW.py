@@ -68,9 +68,9 @@
 
 #8
 
-def less(x, y):
-    if x<y:
-        return x
-    else:
-        return y
-print(less(9, 2))
+# def less(x, y):
+#     if x<y:
+#         return x
+#     else:
+#         return y
+# print(less(9, 2))

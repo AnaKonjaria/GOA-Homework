@@ -55,7 +55,7 @@
 
 #8
 
-def word_in_sentence(word, sentence):
-    if word in sentence:
-        return True
-print(word_in_sentence("cat", "My dog is 10 years old"))
+# def word_in_sentence(word, sentence):
+#     if word in sentence:
+#         return True
+# print(word_in_sentence("Dog", "My dog is 10 years old"))
