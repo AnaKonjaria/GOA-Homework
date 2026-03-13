@@ -10,13 +10,13 @@
 
 #2
 
-def remove_smallest(numbers):
-    if not numbers:
-        return []
-    new_numbers=numbers.copy()
-    new_numbers.remove(min(numbers))
+# def remove_smallest(numbers):
+#     if not numbers:
+#         return []
+#     new_numbers=numbers.copy()
+#     new_numbers.remove(min(numbers))
     
-    return new_numbers
+#     return new_numbers
 
 #3
 
