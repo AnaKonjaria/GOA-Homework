@@ -1,0 +1,36 @@
+<!-- <video></video> <audio></audio> tags allows us to import videos/audios on a website -->
+ <!-- source tag allows us to specify source location "src" and file type example:video/mp4; audio/mpeg. -->
+  <!-- src attribute is for the content link or location, type attribute is for the file type, controld attribute goes next to video or audio tag and imports start/pause, volume and all necessary options for video and audio content. autoplay plays video/audio as soon as the website is opened, muted attribute is to have muted content when opening a site and loop is for automatically re-playing video.audio. -->
+   <!-- Page layout is for better organizing content on a web page. we use <header> <main> and <footer> for this.
+    in a header goes navigation, search, registration etc., in main part is main content of the page, and in footer we have contacts, sources etc.  -->
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My site</title>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="gallery.html">gallery</a></li>
+                </ul>
+            </nav>
+            <hr>
+        </header>
+        <main>
+            <video controls>
+                <source src="Learn HTML headers & footers in 5 minutes! 🤯 - Bro Code (360p, h264).mp4" type="video/mp4">
+                 <source src="Learn HTML headers & footers in 5 minutes! 🤯 - Bro Code (360p, h264).mp4" type="video/ogg">
+                 video not available
+            </video>
+            <hr>
+        </main>
+        <footer>
+            <h6>This is footer</h6>
+        </footer>
+    </body>
+    </html>
