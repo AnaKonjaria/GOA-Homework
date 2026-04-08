@@ -1,0 +1,15 @@
+#first{text-decoration: double underline;
+    font-size: large;
+    text-transform: capitalize;
+}
+#second{text-decoration: dashed underline blue;
+font-size: 70px;
+text-transform: uppercase;}
+#third{text-decoration: dotted overline chocolate;
+font-size: 50px;}
+#fourth{text-decoration: line-through red;
+font-size: x-small;}
+#fifth{text-decoration: wavy overline; color:green}
+
+h1{color: aqua;
+    text-shadow: 10px 10px 5px rgb(216, 59, 59);}
