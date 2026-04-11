@@ -1,0 +1,7 @@
+table{border: solid chocolate;
+border-collapse: collapse;}
+td{border: dashed black;
+padding: 15px;}
+th{border: solid chocolate;
+padding: 15px;}
+tr:nth-child(odd){background-color: rgb(134, 184, 184);}
