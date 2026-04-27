@@ -1,0 +1,23 @@
+/* div{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(to right, rgba(229, 132, 80, 0.491), rgb(101, 144, 192))
+} */
+
+/* div{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(to bottom right, rgba(235, 84, 3, 0.491) 0% 20%, rgb(242, 79, 254) 0% 30%)
+} */
+
+/* div{
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(closest-corner at 100px 100px, red, blue, black);} */
+
+    /* div{
+        width: 500px;
+        height: 500px;
+        background: conic-gradient(grey 90deg, red 90deg, yellow);
+    }
+     */
