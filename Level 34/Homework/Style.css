@@ -1,0 +1,74 @@
+/* div{
+    height: 300px;
+    width: 300px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    transition: transform 2s ease;
+    transform: rotate(-45deg);
+} */
+
+/* div{
+    height: 300px;
+    width: 300px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    transition: transform 2s ease;
+    transform: rotateY(-45deg);
+} */
+
+/* div{
+    height: 300px;
+    width: 300px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    transition: transform 2s ease;
+    transform: translate(20px, 20px);
+} */
+
+/* div{
+    height: 300px;
+    width: 300px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    transition: transform 2s ease;
+    transform: scale(0.5)
+}
+ */
+
+ /* div{
+    height: 300px;
+    width: 300px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    transition: transform 2s ease;
+    transform: skew(20deg);
+} */
+
+div{
+    height: 300px;
+    width: 300px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    transition: transform 2s ease;
+    rotate: -45deg;
+    translate: 20px, 20px;
+    scale: 1.5;
+}
